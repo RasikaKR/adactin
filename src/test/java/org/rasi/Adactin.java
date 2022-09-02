@@ -9,11 +9,20 @@ public class Adactin {
 	private void sub() {
 		System.out.println("sub");
 	}
+
+	private void multi() {
+		System.out.println("multi");
+	}
+
+	private void divide() {
+		System.out.println("divide");
+	}
+
 	private void tamil() {
 		System.out.println("tamil");
 	}
 
-	private void eng() {
-		System.out.println("english");
-	}
+    private void eng() {
+	System.out.println("english");
+    }
 }
