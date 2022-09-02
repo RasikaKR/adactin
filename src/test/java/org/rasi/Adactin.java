@@ -9,4 +9,11 @@ public class Adactin {
 	private void sub() {
 		System.out.println("sub");
 	}
+	private void tamil() {
+		System.out.println("tamil");
+	}
+
+	private void eng() {
+		System.out.println("english");
+	}
 }
