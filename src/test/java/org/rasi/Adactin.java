@@ -25,4 +25,11 @@ public class Adactin {
     private void eng() {
 	System.out.println("english");
     }
+    private void maths() {
+		System.out.println("maths");
+	}
+
+    private void science() {
+	System.out.println("science");
+    }
 }
